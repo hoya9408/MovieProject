@@ -6,4 +6,4 @@
 -version : eclipse 2021-12 , Oracle DB<br>
 
 
-DB 구문 다운로드 : 
+DB 구문 다운로드 : https://drive.google.com/file/d/1zObkCBlDfcd8BSEaYFIuzTO8csxa8gL1/view?usp=share_link
