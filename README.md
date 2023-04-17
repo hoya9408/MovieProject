@@ -7,6 +7,7 @@
 
 
 DB 구문 다운로드 : https://drive.google.com/file/d/1zObkCBlDfcd8BSEaYFIuzTO8csxa8gL1/view?usp=share_link
-
+<br>
 pdf파일 다운로드 : https://drive.google.com/file/d/1vCpnzrC6oDliNAA1-6YLAjHyVTrjuFyw/view?usp=share_link
+<br>
 pptx파일 다운로드 : https://docs.google.com/presentation/d/1xSmFdXzZBUSFj7j1w23JQIZ9t3fRNLx3/edit?usp=share_link&ouid=116594980070818110348&rtpof=true&sd=true
